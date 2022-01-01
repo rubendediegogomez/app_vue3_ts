@@ -11,7 +11,7 @@ defineProps({
 </script>
 
 <template>
-     <button>{{ text }}</button>
+  <button>{{ text }}</button>
 </template>
 
 <style scoped>
